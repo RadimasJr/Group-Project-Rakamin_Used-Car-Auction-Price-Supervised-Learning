@@ -1,7 +1,8 @@
 # Machine Learning Model for used Car Auction Prices
 
-| Member                      |
-| **Ridho (as Mentor)**       |
+| :star: Member                        |
+| ------------------------------------ |
+| **Ridho (as Mentor)**                |
 | **Bayu Purnama (as Project Leader)** |
 | **Benedikta Imelda**                 |
 | **Fernando**                         |
