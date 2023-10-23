@@ -39,7 +39,7 @@ Mengembangkan model yang dapat memprediksi harga mobil bekas secara otomatis ber
 - Profit yang dihasilkan dari prediksi harga yang di rekomendasikan
 - Kecepatan penentuan harga mobil
 
-## :mag_right:**Insight on Data**
+## :mag_right:**Insights on Data**
 
 - Brand-brand seperti Ford, Chevrolet, dan Nissan sangat diminati di Amerika dan laku terjual dengan baik.
 - Tipe mobil sedan dan SUV lebih diminati oleh konsumen.
