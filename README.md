@@ -21,7 +21,7 @@ Sebuah perusahaan mobil lelang, ingin membuat model prediktif yang dapat membant
 
 - Apakah bisa dibuat model prediksi untuk memperkirakan harga jual mobil bekas
   berdasarkan atribut tahun, merek, model, odometer, kondisi, dan warna?
-- itur apa saja yang paling berpengaruh signifikan terhadap harga jual mobil bekas
+- Fitur apa saja yang paling berpengaruh signifikan terhadap harga jual mobil bekas
   pada dataset ini?
 
 ## **Goals**
@@ -32,7 +32,7 @@ Sebuah perusahaan mobil lelang, ingin membuat model prediktif yang dapat membant
 
 ## **Objectives**
 
-Mengembangkan model yang dapat memprediksi harga mobil bekas secara otomatis berdasarkan spesifikasi dan kondisi unit mobil. Dengan model tersebut diharapkan perusahaan dapat mengoptimalkan profit dengan harga yang menyesuaikan tren season tertentu. Selain itu dengan model yang otomatis diharapkan dapat mengefisiensi waktu appraisal, sehingga penjualan yang dapat diselesaikan akan lebih optimal.
+Mengembangkan model yang dapat memprediksi harga mobil bekas secara otomatis berdasarkan spesifikasi dan kondisi unit mobil. Dengan model tersebut diharapkan perusahaan dapat mengoptimalkan profit dengan harga yang menyesuaikan dengan tren season tertentu. Selain itu dengan model yang otomatis diharapkan dapat mengefisiensi waktu appraisal, sehingga penjualan yang dapat diselesaikan akan lebih optimal.
 
 ## :pushpin:**Business Metrics**
 
