@@ -13,36 +13,32 @@
 | **Yasmin Fauziah**                   |
 
 
-## **Latar Belakang**
+## 🔰**Introduction**
 
-Sebuah perusahaan mobil lelang, ingin membuat model prediktif yang dapat membantu calon pembeli dan penjual dalam memperkirakan harga mobil bekas dalam lelang berdasarkan informasi spesifikasi dan kondisi mobil seperti tahun produksi, merek, model, transmisi, odometer, warna, interior, dan lainnya agar tidak terjadi kerugian pada saat jual beli lelang. Model ini diwujudkan untuk meningkatkan efisiensi biaya operasional dan memungkinkan margin keuntungan yang lebih besar.
+Final project Data Science Bootcamp Batch 36 di Rakamin Academy. Dalam project ini sebagai **Data Scientis** dataset yang digunakan adalah Used Car Auction Prices (https://www.kaggle.com/datasets/tunguz/used-car-auction-prices). Dataset ini berisikan data historis mobil bekas yang terjual pada lelang di Amerika Serikat sekitar tahun 2014 - 2015.
+
 
 ## :question:**Rumusan Masalah**
 
-- Apakah bisa dibuat model prediksi untuk memperkirakan harga jual mobil bekas
-  berdasarkan atribut tahun, merek, model, odometer, kondisi, dan warna?
-- Fitur apa saja yang paling berpengaruh signifikan terhadap harga jual mobil bekas
-  pada dataset ini?
+- Perusahaan Ingin meningkatkan profit dan penjualan mobil, karena kondisi saat ini belum optimal.
+- Profit belum optimal dikarenakan proses appraisal mobil belum efisien biaya dan waktu, juga harga belum objektif bagi penjual dan pembeli yang berdampak pada keuntungan perusahaan.
 
 ## **Goals**
 
-- Mempercepat proses dengan menggunakan model machine learning untuk melakukan prediksi harga secara
-  lebih objektif.
-- Menentukan nilai penjualan maksimum untuk memaksimalkan profit.
+- Meningkatkan profit penjualan mobil dengan efisiensi cost dan harga yang menguntungkan 
 
 ## **Objectives**
 
-Mengembangkan model yang dapat memprediksi harga mobil bekas secara otomatis berdasarkan spesifikasi dan kondisi unit mobil. Dengan model tersebut diharapkan perusahaan dapat mengoptimalkan profit dengan harga yang menyesuaikan dengan tren season tertentu. Selain itu dengan model yang otomatis diharapkan dapat mengefisiensi waktu appraisal, sehingga penjualan yang dapat diselesaikan akan lebih optimal.
+- Membuat model yang dapat memprediksi harga mobil bekas secara  otomatis dan merekomendasikan harga yang menguntungkan berdasarkan spesifikasi dan kondisi unit
+- Diharapkan model ini dapat membuat proses appraisal lebih efisien, berujung pada peningkatan sales dan kepuasan pelanggan.
 
 ## :pushpin:**Business Metrics**
 
-- Profit yang dihasilkan dari prediksi harga yang di rekomendasikan
-- Kecepatan penentuan harga mobil
+- Jumlah mobil yang berhasil diappraisal dalam satu hari
+- Profit Penjualan dari hasil rekomendasi harga
 
-## :mag_right:**Insights on Data**
-
-- Brand-brand seperti Ford, Chevrolet, dan Nissan sangat diminati di Amerika dan laku terjual dengan baik.
-- Tipe mobil sedan dan SUV lebih diminati oleh konsumen.
-- Mobil dengan transmisi otomatis lebih laku terjual.
-- Semakin baik kondisi mobil (rating diatas 3) maka harga belinya juga semakin tinggi sementara unit dengan kondisi buruk (rating dibawah 3) banyak diminati karena harga lebih murah.
-- Mobil keluaran tahun 1980an memiliki nilai jual yang lebih tinggi daripada mobil tahun 2000an, kemungkinan karena termasuk dalam kategori mobil antik.
+## 👣**Stages**
+Stage 1 - Data Preparation: Mempelajari dataset dan proses bisnis yang telah dipilih. Poin-poin utama dalam tahap ini adalah sebagai siapa kita dalam proyek ini, penentuan rumusan masalah, tujuan, dan objektif yang ingin dicapai, serta menentukan business metrics.
+Stage 2 - EDA (Exploratory Data Analysis): Menelusuri dataset untuk memahami karakteristik dari data tersebut. Proses ini dibagi menjadi 3 langkah, dimulai dari Descriptive Statistics, EDA, dan mengumpulkan wawasan terkait dataset dengan visualisasi.
+Stage 3 - Pre-Processing: Proses menangani data agar menjadi data bersih sebelum memulai proses modelling. Proses celaning ini mencakup handling missing value, data duplikat, pencilan/nilai ekstrim (outliers), dan feature engineering.
+Stage 4 - Machine Learning Modelling (Supervised Learning): Proses pemodelan dan eksperimen dengan menerapkan dan mengevaluasi algoritma yang cocok, feature selection, hyperparameter tuning, dan feature selection.
