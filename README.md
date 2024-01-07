@@ -40,8 +40,8 @@ Final project Data Science Bootcamp Batch 36 di Rakamin Academy. Dalam project i
 ## 👣**Stages**
 Project ini dibagi menjadi **4 Stages**:
 <br>
-Stage 1 - Data Preparation: Mempelajari dataset dan proses bisnis yang telah dipilih. Poin-poin utama dalam tahap ini adalah sebagai siapa kita dalam proyek ini, penentuan rumusan masalah, tujuan, dan objektif yang ingin dicapai, serta menentukan business metrics.<br>
-2. Stage 2 - EDA (Exploratory Data Analysis): Menelusuri dataset untuk memahami karakteristik dari data tersebut. Proses ini dibagi menjadi 3 langkah, dimulai dari Descriptive Statistics, EDA, dan mengumpulkan wawasan terkait dataset dengan visualisasi.<br>
-3. Stage 3 - Pre-Processing: Proses menangani data agar menjadi data bersih sebelum memulai proses modelling. Proses celaning ini mencakup handling missing value, data duplikat, pencilan/nilai ekstrim (outliers), dan feature engineering.<br>
-4. Stage 4 - Machine Learning Modelling (Supervised Learning): Proses pemodelan dan eksperimen dengan menerapkan dan mengevaluasi algoritma yang cocok, feature selection, hyperparameter tuning, dan feature selection.
+- Stage 1 - Data Preparation: Mempelajari dataset dan proses bisnis yang telah dipilih. Poin-poin utama dalam tahap ini adalah sebagai siapa kita dalam proyek ini, penentuan rumusan masalah, tujuan, dan objektif yang ingin dicapai, serta menentukan business metrics.<br>
+- Stage 2 - EDA (Exploratory Data Analysis): Menelusuri dataset untuk memahami karakteristik dari data tersebut. Proses ini dibagi menjadi 3 langkah, dimulai dari Descriptive Statistics, EDA, dan mengumpulkan wawasan terkait dataset dengan visualisasi.<br>
+- Stage 3 - Pre-Processing: Proses menangani data agar menjadi data bersih sebelum memulai proses modelling. Proses celaning ini mencakup handling missing value, data duplikat, pencilan/nilai ekstrim (outliers), dan feature engineering.<br>
+- Stage 4 - Machine Learning Modelling (Supervised Learning): Proses pemodelan dan eksperimen dengan menerapkan dan mengevaluasi algoritma yang cocok, feature selection, hyperparameter tuning, dan feature selection.
 
