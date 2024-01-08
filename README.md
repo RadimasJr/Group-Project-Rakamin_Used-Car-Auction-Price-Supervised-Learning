@@ -15,7 +15,7 @@
 
 ## 🔰**Introduction**
 
-Final project Data Science Bootcamp Batch 36 di Rakamin Academy. Dalam project ini sebagai **Data Scientis** dataset yang digunakan adalah Used Car Auction Prices (https://www.kaggle.com/datasets/tunguz/used-car-auction-prices). Dataset ini berisikan data historis mobil bekas yang terjual pada lelang di Amerika Serikat sekitar tahun 2014 - 2015.
+Final project Data Science Bootcamp Batch 36 di Rakamin Academy. Dalam project ini sebagai **Data Scientist** dataset yang digunakan adalah Used Car Auction Prices (https://www.kaggle.com/datasets/tunguz/used-car-auction-prices). Dataset ini berisikan data historis mobil bekas yang terjual pada lelang di Amerika Serikat sekitar tahun 2014 - 2015.
 
 
 ## :question:**Rumusan Masalah**
